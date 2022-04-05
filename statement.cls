@@ -14,7 +14,6 @@
 \posttitle{\par\mdseries\LARGE\SubtitleContent\end{center}\vskip 0.5em}
 
 \RequirePackage{fontspec}
-\setmonofont{Consolas}
 
 \RequirePackage{titlesec}
 \newcommand{\Attention}{\begingroup\titleformat{\subsection}{\bf}{}{0pt}{\hspace{0.5em}}\subsection[注意事项（请仔细阅读）]{【注意事项（请仔细阅读）】}\endgroup}
