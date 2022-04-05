@@ -1,4 +1,4 @@
-\ProvidesClass{statement}[Statement Class for Olympiad in Informatics]
+\ProvidesClass{statement}
 \NeedsTeXFormat{LaTeX2e}
 
 \LoadClass[12pt]{ctexart}
