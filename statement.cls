@@ -57,4 +57,4 @@
 \RequirePackage{xeCJKfntef}
 \newcommand\stress[1]{\textbf{\CJKunderdot{#1}}}
 \newcommand\filename[1]{\textbf{\textit{#1}}}
-\newcommand\englishname[1]{\underline{\texttt{#1}}}
+\newcommand\englishname[1]{\texttt{#1}}
